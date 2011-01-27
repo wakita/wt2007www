@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="/Internal/Ken/Dropbox/work/software/wt2007www/resource/wt2007www.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/socialnet/resource/wt2007www.jardesc" exportErrors="false" exportWarnings="true" includeDirectoryEntries="false" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=socialnet/src&lt;jp.ac.titech.is.socialnet.clustering{Main.java[Main" manifestLocation="/socialnet/resource/wt2007www.manifest" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/socialnet/.classpath"/>
+        <file path="/socialnet/wt2007www.manifest"/>
+        <file path="/socialnet/.project"/>
+        <javaElement handleIdentifier="=socialnet/src"/>
+        <file path="/socialnet/wt2007www.jardesc"/>
+    </selectedElements>
+</jardesc>
